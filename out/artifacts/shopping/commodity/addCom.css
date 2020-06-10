@@ -1,0 +1,11 @@
+.add-container {
+    width: 80%;
+    margin: 20px auto;
+}
+.btn-box {
+    text-align: center;
+    margin-top: 30px;
+}
+.btn-outline-primary {
+    margin-left: 30px;
+}
